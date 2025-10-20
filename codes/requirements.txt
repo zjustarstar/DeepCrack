@@ -1,0 +1,10 @@
+torch>=1.0.2
+torchvision
+opencv-python
+opencv-contrib-python
+numpy
+pillow
+visdom
+tqdm
+setproctitle
+
